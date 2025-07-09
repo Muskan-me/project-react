@@ -1,0 +1,105 @@
+.hero {
+  background-color: #f5f5f5;
+  padding: 50px 0;
+  text-align: center;
+}
+
+.hero h1 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.hero p {
+  font-size: 18px;
+  margin-bottom: 30px;
+}
+
+.hero-button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 12px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.hero-button:hover {
+  background-color: #0056b3;
+}
+
+.hero img {
+  max-width: 100%;
+  height: auto;
+  margin-top: 20px;
+}
+.hero .hero-image {
+  max-width: 600px;
+  margin: 0 auto;
+  display: block;
+}
+.hero .hero-image img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+.hero .hero-text {
+  margin-top: 20px;
+  font-size: 18px;
+  color: #555;
+}
+.hero .hero-text p {
+  margin: 0;
+  padding: 0;
+}
+.hero .hero-text a {
+  color: #007bff;
+  text-decoration: none;
+}
+.hero .hero-text a:hover {
+  text-decoration: underline;
+}
+.hero .hero-text h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+.hero .hero-text h3 {
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+.hero .hero-text ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+.hero .hero-text ul li {
+  margin-bottom: 10px;
+}
+.hero .hero-text ul li i {
+  color: #007bff;
+  margin-right: 10px;
+}
+.hero .hero-text ul li span {
+  color: #555;
+}
+.hero .hero-text ul li span a {
+  color: #007bff;
+  text-decoration: none;
+}
+.hero .hero-text ul li span a:hover {
+  text-decoration: underline;
+}
+.hero .hero-text ul li span a:visited {
+  color: #0056b3;
+}
+.hero .hero-text ul li span a:active {
+  color: #003d80;
+}
+.hero .hero-text ul li span a:focus {
+  outline: none;
+  box-shadow: 0 0 0 2px rgba(0, 123, 255, 0.5);
+}
+.hero .hero-text ul li span a:focus-visible {
+  outline: none;
+  box-shadow: 0 0 0 2px rgba(0, 123, 255, 0.5);
+}
