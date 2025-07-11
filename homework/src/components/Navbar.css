@@ -1,0 +1,58 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+padding: 0.002vw;
+  background-color: #8d5e5e;
+  color: #ffffff;
+}
+.nav-align{
+  display:flex;
+  justify-content: space-between;
+
+
+}
+.nav-left{
+  display: flex;
+  justify-content: space-around;
+  width: 0.05px;
+  padding-left: 0.01rem;
+  
+}
+.nav-left img{
+  width: 50px;
+  height: 50px;
+  border-radius:999px;
+}
+.nav-left h1{
+  font-size: large;
+  line-height: 28px;
+cursor: pointer;
+}
+.nav-left p{
+  font-size: x-small;
+position: relative;
+
+}
+.nav-right {
+   list-style: none;
+   display: flex;
+  
+    
+}
+.nav-links{
+  display: flex;
+  list-style: none;
+  display: flex;
+  gap: 30px;
+}
+.nav-links a{
+  color: rgb(19, 37, 31);
+  text-decoration: none;
+  padding: 10px;
+  margin: 0 23px;
+}
+.nav-links a:hover{
+  color:white;
+  font-size: 1.2rem;
+}
+
